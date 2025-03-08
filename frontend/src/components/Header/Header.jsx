@@ -19,7 +19,7 @@ const nav__links = [
     display: "Tours",
   },
   {
-    path: " http://127.0.0.1:5000",
+    path: "https://travelrecommendation.streamlit.app/",
     display: "Recommendation",
     external: true, // External link
   },
